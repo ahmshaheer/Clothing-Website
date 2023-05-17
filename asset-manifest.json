@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clothing-Website/static/css/main.22e1987b.css",
+    "main.js": "/Clothing-Website/static/js/main.28ddfd9d.js",
+    "static/media/shopping-bag.svg": "/Clothing-Website/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/Clothing-Website/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Clothing-Website/index.html",
+    "main.22e1987b.css.map": "/Clothing-Website/static/css/main.22e1987b.css.map",
+    "main.28ddfd9d.js.map": "/Clothing-Website/static/js/main.28ddfd9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e1987b.css",
+    "static/js/main.28ddfd9d.js"
+  ]
+}
